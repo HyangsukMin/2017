@@ -1,4 +1,3 @@
-setwd("C:\\Users\\Hyangsuk_Min\\Desktop\\보물단지\\2017\\다변량통계분석\\다변량 프로젝트\\프로젝트 최종\\다변량 데이터")
 ha<-read.csv("BLI 2016.csv")
 library(ggplot2)
 library(RColorBrewer)
